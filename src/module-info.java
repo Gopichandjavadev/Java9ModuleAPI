@@ -1,0 +1,4 @@
+module easytextapi {
+    
+    exports easytextapi;
+}
